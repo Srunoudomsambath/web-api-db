@@ -14,4 +14,4 @@ obj/
 *.exe
 
 # ASP.NET Core
-appsettings.Development.json
+appsettings.Development.json.vs/ 
